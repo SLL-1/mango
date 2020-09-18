@@ -1,0 +1,3 @@
+# Project exclude paths
+/mango-admin/target/
+/mango-core/target/
